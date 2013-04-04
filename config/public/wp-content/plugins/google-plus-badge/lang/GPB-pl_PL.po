@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Plus Badget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-29 13:12+0100\n"
+"PO-Revision-Date: 2011-11-29 13:13+0100\n"
+"Last-Translator: Mateusz Lerczak <kiki.diavo@gmail.com>\n"
+"Language-Team: Mateusz Lerczak <kiki.diavo@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-Country: POLAND\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge\n"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/google-plus-badge-admin.php:25
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left.php:1
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/google-plus-badge.php:16
+msgid "\"Google Plus Badge\" works on WP 3.0+"
+msgstr "\"Google Plus Badge\" działa na WP 3.1+"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/main.php:3
+msgid "Google Plus Badge options"
+msgstr "Znaczek Google Plus opcje"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/main.php:6
+msgid "You have to fill Google Page ID."
+msgstr "Musisz zapisać ID strony z Google Plus."
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/right.php:1
+msgid "Donate"
+msgstr "Dotacja"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/right.php:10
+msgid "Like me"
+msgstr "Polub mnie"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:2
+msgid "Slider settings"
+msgstr "Ustawienia slidera"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:7
+msgid "Position:"
+msgstr "Pozycja:"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:10
+msgid "left"
+msgstr "lewa"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:11
+msgid "right"
+msgstr "prawa"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:12
+msgid "top"
+msgstr "góra"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:13
+msgid "bottom"
+msgstr "dół"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:16
+msgid "Position of slider"
+msgstr "Pozycja slidera"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:19
+msgid "Top position:"
+msgstr "Górny odstęp:"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:21
+msgid "Number of pixels from the top edge (Works only at left or right position)"
+msgstr "Liczba pikseli od górnej krawędzi (działa tylko w pozycji lewa lub prawa)"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:24
+msgid "Left position:"
+msgstr "Lewy odstęp:"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:26
+msgid "Number of pixels from the left edge (Works only at top or bottom position)"
+msgstr "Liczba pikseli od lewej krawędzi (działa tylko w pozycji góra lub dół)"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:29
+msgid "Logo position:"
+msgstr "Lewy odstęp:"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:31
+msgid "Logo position in px"
+msgstr "Pozycja logo w pikselach"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:34
+msgid "Action:"
+msgstr "Akcja:"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:37
+msgid "hover"
+msgstr "najechanie"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:38
+msgid "click"
+msgstr "kliknięcie"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:41
+msgid "Slider action after hover or click"
+msgstr "Akcja slidera po najechaniu lub kliknięciu"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:44
+msgid "Open time:"
+msgstr "Czas otwarcia:"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:46
+msgid "Slider opening time in ms."
+msgstr "Czas otwarcia slidera w ms."
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:49
+msgid "Close time:"
+msgstr "Czas zamknięcia:"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:51
+msgid "Slider closing time in ms."
+msgstr "Czas zamknięcia slider w ms."
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:55
+msgid "Start opacity:"
+msgstr "Początkowa przezroczystość:"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:63
+msgid "Start opacity of \"Google Plus Badge\" box"
+msgstr "Początkowa przezroczystość boksu \"Znaczek Google Plus\""
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:67
+msgid "Open opacity:"
+msgstr "Przezroczystość otwarcia:"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:75
+msgid "Open opacity of \"Google Plus Badge\" box"
+msgstr "Przezroczystość boksu \"Znaczek Google Plus\" po otwarciu"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:79
+msgid "Close opacity:"
+msgstr "Przezroczystość zamknięcia:"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:87
+msgid "Close opacity of \"Google Plus Badge\" box"
+msgstr "Przezroczystość bosku \"Znaczek Google Plus\" po zamknięciu"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:91
+msgid "Icon:"
+msgstr "Ikona:"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:109
+msgid "Slider icon"
+msgstr "Ikona slidera"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:113
+msgid "Border color:"
+msgstr "Kolor obramowania:"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:115
+msgid "Border color"
+msgstr "Kolor obramowania"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/slider.php:122
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/primary.php:41
+msgid "Save settings"
+msgstr "Zapisz ustawienia"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/primary.php:5
+msgid "Page ID:"
+msgstr "ID strony:"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/primary.php:14
+msgid "e.g. <i>116820438831110052424</i>"
+msgstr "e.g. <i>116820438831110052424</i>"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/primary.php:17
+msgid "Size:"
+msgstr "Rozmiar:"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/primary.php:20
+msgid "Normal"
+msgstr "normalny"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/primary.php:21
+msgid "Small"
+msgstr "mały"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/primary.php:24
+msgid "Determines the badge size."
+msgstr "Określa wielkość guzika. "
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/primary.php:27
+msgid "Language:"
+msgstr "Język:"
+
+#: /home/retio/Strony/retioVPS/wp-content/plugins/google-plus-badge/admin/left/primary.php:35
+msgid "Badge language."
+msgstr "Język znaczka"
+
+#~ msgid "You can overload css styles of slider-content box. "
+#~ msgstr "Możesz nadpisać style CSS boksu slider-content."

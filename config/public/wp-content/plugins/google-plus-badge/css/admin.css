@@ -1,0 +1,23 @@
+.GPB h3{
+    background-image: url(/wp-admin/images/gray-grad.png);
+    background-repeat: repeat-x;
+    background-position: left top;
+    background-color: #DFDFDF;
+    font-size: 12px;
+    border: solid 1px #CCC;
+    padding: 10px;
+}
+
+.GPB .cLeft { float: left; width: 750px; }
+.GPB .cRight { float: left; width: 300px; margin-left: 10px; }
+
+.GPB .small { font-size: 10px;line-height: 12px; padding: 0 10px !important; }
+.GPB table.options td.inputTD,
+.GPB table.options td.inputTD select,
+.GPB table.options td.catLeft { width: 130px; }
+.GPB table.options input[type=text],
+.GPB table.options textarea { width: 400px; border: 1px solid #DFDFDF; }
+.GPB table.options td.inputTD_small input[type=text] { width: 50px; }
+.GPB table.options td{ padding: 5px; }
+
+.GPB .emptyPageID {background-color:#ca3e2e;color:#FFFFFF;font-weight:bold;text-align:center;padding:10px;border:1px solid #000;margin:5px}
