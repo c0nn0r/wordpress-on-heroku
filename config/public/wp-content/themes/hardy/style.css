@@ -275,13 +275,20 @@ input[type="text"], textarea {
 	color: #6a6a6a;	
 	border: 1px solid rgba(0,0,0,.05);
 	border-bottom: 2px solid rgba(0,0,0,.1);
-	background:	#f7f7f7;
+/*	background:	#f7f7f7; */
+    background: #e62b7c;
 	font-size: .9em;
 	-webkit-appearance: none;
 }
 
+/*
 input[type="text"]:focus {outline: none; background-color: #f7f7f7;}
 textarea:focus {outline: none; background-color: #f7f7f7;}
+*/
+
+input[type="text"]:focus {outline: none; background-color: #e62b7c;}
+textarea:focus {outline: none; background-color: #e62b7c;}
+
 
 textarea { width: 80%; line-height: 1.6em; }
 
@@ -652,7 +659,8 @@ a.action {
 	color: #696969;	
 	padding: 30px 30px 30px;
 	margin: 0 0 50px;
-	background: #f7f7f7;
+/*	background: #f7f7f7; */
+    background: #e62b7c;
 }
 
 .page-template-page-portfolio-php #pageHead {
@@ -1674,7 +1682,8 @@ ol#commentslist {
 ////////////////////////////////////////////////////////////////////*/
 
 #footer {	
-	background: #f7f7f7;
+/*	background: #f7f7f7; */
+    background: #5fbfe7;
 }
 
 #footer .inside {
