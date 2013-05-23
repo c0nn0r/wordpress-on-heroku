@@ -693,7 +693,8 @@ a.action {
 	color: #696969;	
 	padding: 25px 5% 25px;
 	text-align: center;	
-	background: #f7f7f7;	
+/*	background: #f7f7f7;	*/
+    background: #e62b7c;
 }
 
 #homeMessage p{	
