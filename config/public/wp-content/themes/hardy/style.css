@@ -276,7 +276,7 @@ input[type="text"], textarea {
 	border: 1px solid rgba(0,0,0,.05);
 	border-bottom: 2px solid rgba(0,0,0,.1);
 /*	background:	#f7f7f7; */
-    background: #e62b7c;
+    background: #ee91b9;
 	font-size: .9em;
 	-webkit-appearance: none;
 }
@@ -286,8 +286,8 @@ input[type="text"]:focus {outline: none; background-color: #f7f7f7;}
 textarea:focus {outline: none; background-color: #f7f7f7;}
 */
 
-input[type="text"]:focus {outline: none; background-color: #e62b7c;}
-textarea:focus {outline: none; background-color: #e62b7c;}
+input[type="text"]:focus {outline: none; background-color: #ee91b9;}
+textarea:focus {outline: none; background-color: #ee91b9;}
 
 
 textarea { width: 80%; line-height: 1.6em; }
