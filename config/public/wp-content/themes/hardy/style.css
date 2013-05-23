@@ -286,8 +286,8 @@ input[type="text"]:focus {outline: none; background-color: #f7f7f7;}
 textarea:focus {outline: none; background-color: #f7f7f7;}
 */
 
-input[type="text"]:focus {outline: none; background-color: #ee91b9;}
-textarea:focus {outline: none; background-color: #ee91b9;}
+input[type="text"]:focus {outline: none; background-color: #5ebc9a;}
+textarea:focus {outline: none; background-color: #5ebc9a;}
 
 
 textarea { width: 80%; line-height: 1.6em; }
@@ -660,7 +660,7 @@ a.action {
 	padding: 30px 30px 30px;
 	margin: 0 0 50px;
 /*	background: #f7f7f7; */
-    background: #ee91b9;
+    background: #5ebc9a;
 }
 
 .page-template-page-portfolio-php #pageHead {
@@ -702,7 +702,7 @@ a.action {
 	padding: 25px 5% 25px;
 	text-align: center;	
 /*	background: #f7f7f7;	*/
-    background: #ee91b9;
+    background: #5ebc9a;
 }
 
 #homeMessage p{	
