@@ -34,7 +34,7 @@
 	<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
 	
 	
-	<link href="/favicon.ico" rel="shortcut icon" type="image/png" />
+	<link href="/favicon.ico?v=3" rel="shortcut icon" type="image/png" />
 	
 	
 	<?php if (of_get_option('ttrust_favicon') ) : ?>
